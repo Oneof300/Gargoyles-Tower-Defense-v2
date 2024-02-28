@@ -1,1 +1,1 @@
-# Gargoyles-Tower-Defense-v2
+# Gargoyles Tower Defense
